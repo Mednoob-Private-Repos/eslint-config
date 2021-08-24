@@ -1,6 +1,6 @@
 {
   "name": "@zhycorp/eslint-config",
-  "version": "3.0.0",
+  "version": "3.1.0",
   "description": "An ESLint shareable configuration that used in Zhycorp's projects",
   "keywords": [
     "typescript",
