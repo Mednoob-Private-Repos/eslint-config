@@ -1,4 +1,5 @@
 # eslint-config
+
 > An ESLint [shareable configuration](http://eslint.org/docs/developer-guide/shareable-configs.html) that used in Zhycorp's projects ✔
 
 <div align="center">
