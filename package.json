@@ -14,7 +14,7 @@
   ],
   "repository": "https://github.com/zhycorp/eslint-config",
   "license": "BSD-3-Clause",
-  "author": "Zhycorp <support@zhycorp.com>",
+  "author": "Zhycorp <support@zhycorp.net>",
   "main": "index.js",
   "scripts": {
     "lint": "eslint --ignore-path .gitignore ."
